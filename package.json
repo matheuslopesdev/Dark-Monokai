@@ -2,7 +2,7 @@
     "name": "dark-plus-monokai",
     "displayName": "Dark+ Monokai",
     "description": "The Dark+ workbench with Monokai syntax colors. Familiar VS Code chrome, classic Monokai code.",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "publisher": "matheuslopesdev",
     "license": "MIT",
     "icon": "icon.png",
@@ -16,8 +16,16 @@
     "engines": {
         "vscode": "^1.70.0"
     },
-    "categories": ["Themes"],
-    "keywords": ["theme", "color-theme", "dark", "monokai", "dark+"],
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "theme",
+        "color-theme",
+        "dark",
+        "monokai",
+        "dark+"
+    ],
     "galleryBanner": {
         "color": "#272822",
         "theme": "dark"
